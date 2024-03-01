@@ -10,4 +10,5 @@ The SmartPunchDataset has been acquired from TheSmartPunchTeam (2019) through ht
 
 
 # References
+TheSmartPunchTeam. (2019). Boxpunch dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/smartpunchteam/boxpunch-dataset
 Wagner, T. (2019). standardizer.py. GitHub. Retrieved from https://github.com/smartpunch/timeseries_helpers/blob/master/standardizer.py
