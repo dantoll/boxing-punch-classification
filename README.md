@@ -6,7 +6,7 @@ This thesis project evaluates the performance of five Machine Learning and two D
 Machine Learning models and two supervised Deep Learning models. By extracting a total number of thirty features from the accelerometer data, we were able to train ML algorithms that can accurately classify boxing punches with a minimal error rate. Giving the sequential accelerometer data as input to the DL models yielded similar results. Additionally, we investigate whether standardizing the period length of accelerometer data, influences the performance of these models.
 
 
-The SmartPunchDataset has been acquired from TheSmartPunchTeam (2019) through https://www.kaggle.com/.Part of the code has been adapted by the me from Wagner (2019). The reused/adapted code fragments are clearly indicated in the notebook.
+The SmartPunchDataset has been acquired from TheSmartPunchTeam (2019) through https://www.kaggle.com/. Part of the code has been adapted by the me from Wagner (2019). The reused/adapted code fragments are clearly indicated in the notebook.
 
 
 # References
